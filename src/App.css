@@ -11,7 +11,7 @@
   /* react container styling */
   .react--container {
     width: 100vw;
-    background-color:white;
+    background-color:red;
     margin: 5px auto;
     box-shadow: 2px 2px 13px 1px rgba(58, 58, 58, 0.249);
   }
