@@ -43,10 +43,3 @@ function App() {
 }
 
 export default App;
-
-
-// rating={carditem.stats.rating}
-// reviewCount={carditem.stats.reviewCount}
-// location={carditem.location}
-// title={carditem.title}
-// price={carditem.price}

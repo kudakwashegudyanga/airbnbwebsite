@@ -1,9 +1,9 @@
-import React from 'react'
+
 
 
 export default function Cards(props) {
   let badgeText
-  if (props.openSpot === 0) {
+  if (props.openSpots === 0) {
     badgeText = "Sold Out"
   } else{
     badgeText = "Online"
